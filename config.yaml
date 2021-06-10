@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Hugo
+title: Beers
 theme: mini
 
 
@@ -33,7 +33,7 @@ params:
   # Site Author
   author: Author
   # Author biography
-  bio: Software Engineer
+  bio: Get On The Beers
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
